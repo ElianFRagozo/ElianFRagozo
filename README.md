@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hola, soy <strong>Elian Fragozo</strong></h1>
-<h3 align="center">💻 Backend Developer | Ingeniero de Sistemas | Data & Systems Optimization</h3>
+<p align="center">
+  <img src="assets/banner.png" alt="Elian Fragozo - Backend Developer" width="100%">
+</p>
+
 
 ---
 
